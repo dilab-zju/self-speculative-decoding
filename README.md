@@ -1,7 +1,18 @@
 # self-speculative-decoding
 
+![1695092647364](https://vscode-remote+ssh-002dremote-002b10-002e214-002e208-002e48.vscode-resource.vscode-cdn.net/home/junzhang/SDGPT/image/README/1695092647364.png)
+
 Code associated with the paper **Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**
 
+Self-Speculative Decoding is a novel inference scheme for accelerating Large
+Language Models (LLMs). It maintains output quality while ensuring model compatibility. This method requires no extra training or memory, making it a *plug-and-play* and *cost-effective* solution for LLM inference acceleration.
+
+This approach is characterized by a two-stage process: 
+
+**Drafting stage:** Generating draft tokens at a slightly lower quality but more
+quickly, which is achieved by selectively skipping certain intermediate layers during drafting.
+**Verification stage:** Employing
+the original LLM to validate those draft output tokens in one forward pass.
 
 ## Cite Our Paper
 
