@@ -1,6 +1,6 @@
 # self-speculative-decoding
 
-![1695092647364](intro.png)
+![Overview](./intro.png)
 
 Code associated with the paper **Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**
 
