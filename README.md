@@ -1,6 +1,6 @@
 # self-speculative-decoding
 
-![1695092647364](https://vscode-remote+ssh-002dremote-002b10-002e214-002e208-002e48.vscode-resource.vscode-cdn.net/home/junzhang/SDGPT/image/README/1695092647364.png)
+![1695092647364](intro.png)
 
 Code associated with the paper **Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**
 
