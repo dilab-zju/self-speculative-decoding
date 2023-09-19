@@ -1,4 +1,4 @@
-# self-speculative-decoding
+# Self-Speculative Decoding
 Code associated with the paper **Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**
 
 ![Overview](./intro.png)
