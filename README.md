@@ -1,7 +1,3 @@
-Employs the original LLM to validate draft tokens in one forward pass.
-
-Generates draft tokens by selectively skipping certain intermediate layers.
-
 # Self-Speculative Decoding
 
 Code associated with the paper:
