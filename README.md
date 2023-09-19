@@ -1,3 +1,7 @@
+Employs the original LLM to validate draft tokens in one forward pass.
+
+Generates draft tokens by selectively skipping certain intermediate layers.
+
 # Self-Speculative Decoding
 
 Code associated with the paper:
@@ -8,11 +12,11 @@ Code associated with the paper:
 
 Self-Speculative Decoding is a novel inference scheme for accelerating Large Language Models (LLMs) without additional neural network training and extra memory footprint. It not only maintains consistent output quality but also ensures model compatibility, making it a *plug-and-play* and *cost-effective* solution for LLM inference acceleration.
 
-Self-Speculative Decoding is characterized by a two-stage process:
+Self-Speculative Decoding involves a two-stage process:
 
-**Drafting stage:** Generating draft tokens by selectively skipping certain intermediate layers.
+**Drafting stage:** Generates draft tokens by selectively skipping certain intermediate layers.
 
-**Verification stage:** Employing the original LLM to validate draft tokens in one forward pass.
+**Verification stage:** Employs the original LLM to validate draft tokens in one forward pass.
 
 ## Cite Our Paper
 
