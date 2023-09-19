@@ -8,10 +8,9 @@ Language Models (LLMs). It maintains output quality while ensuring model compati
 
 This approach is characterized by a two-stage process: 
 
-**Drafting stage:** Generating draft tokens with slightly lower quality but greater speed by selectively skipping certain intermediate layers during drafting.
+**Drafting stage:** Generating draft tokens by selectively skipping certain intermediate layers.
 
-**Verification stage:** Employing
-the original LLM to validate those draft output tokens in one forward pass.
+**Verification stage:** Employing the original LLM to validate draft tokens in one forward pass.
 
 ## Cite Our Paper
 
