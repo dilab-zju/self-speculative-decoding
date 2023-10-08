@@ -4,7 +4,7 @@ Code associated with the paper:
 
 **[Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding](https://arxiv.org/abs/2309.08168)**
 
-![Overview](./assets/intro.png)
+![Overview](./assets/intro.pdf)
 
 Self-Speculative Decoding is a novel inference scheme for accelerating Large Language Models (LLMs) without additional neural network training and extra memory footprint. It not only maintains consistent output quality but also ensures model compatibility, making it a *plug-and-play* and *cost-effective* solution for LLM inference acceleration.
 
