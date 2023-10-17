@@ -29,6 +29,27 @@ If you find this code useful in your research, please consider citing:
 }
 ```
 
-## Coming Soon
+## Requirements
 
-Code under construction.
+- PyTorch
+- Transformer
+- NumPy
+- More in ssd.yml
+
+## Files
+
+- searching.py: Selection of skipped layers by Bayesian optmization
+- decoding.py: Core process of self-speculative decoding
+- modeling_llama.py: Model structure with self-speculative decoding
+- search.ipynb: Main script searches for skipped layers
+- evaluate_sum.ipynb: Main script evaluates self-speculative decoding on text generation task
+- evaluate_code.ipynb: Main script evaluates self-speculative decoding on code generation task
+- skip_layers.json: Layers skipped by draft models corresponding to different base models
+- ssd.yml: Relevant environment
+
+## Usage
+
+1. Configure the relevant environment according to ssd.yml;
+2. Execute search.ipynb to get skipped layers to generate a draft model;
+3. Execute evaluate_sum.ipynb to evaluate self-speculative decoding on summarization task;
+4. Execute evaluate_code.ipynb to evaluate self-speculative decoding on code generation.
