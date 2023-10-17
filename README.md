@@ -16,7 +16,7 @@ Self-Speculative Decoding involves a two-stage process:
 
 ## Cite Our Paper
 
-If you find this code useful in your research, please consider citing:
+If you find this code and paper useful in your research, please consider citing:
 
 ```
 @article{zhang2023draft,
