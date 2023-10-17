@@ -51,5 +51,5 @@ If you find this code and paper useful in your research, please consider citing:
 
 1. Configure the relevant environment according to ssd.yml;
 2. Execute search.ipynb to get skipped layers to generate a draft model;
-3. Execute evaluate_sum.ipynb to evaluate self-speculative decoding on summarization task;
+3. Execute evaluate_sum.ipynb to evaluate self-speculative decoding on summarization;
 4. Execute evaluate_code.ipynb to evaluate self-speculative decoding on code generation.
