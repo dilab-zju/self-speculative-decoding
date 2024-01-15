@@ -376,7 +376,7 @@ class LlamaModel(_LlamaModel):
                 def create_custom_forward(module):
                     def custom_forward(*inputs):
                         # None for past_key_value
-                        return module(*inputs, output_attentions, None)
+                        return module(*inputs, past_key_value, output_attentions)
 
                     return custom_forward
 
