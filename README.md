@@ -1,8 +1,8 @@
-# [ACL_2024] Self-Speculative Decoding
+# [ACL 2024] Self-Speculative Decoding
 
 Code associated with the paper:
 
-**[Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding](https://arxiv.org/abs/2309.08168)**
+**[ACL 2024] [Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding](https://arxiv.org/abs/2309.08168)**
 
 ![Overview](./assets/intro.png)
 
