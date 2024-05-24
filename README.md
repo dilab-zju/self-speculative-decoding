@@ -1,4 +1,4 @@
-# Self-Speculative Decoding
+# [ACL_2024] Self-Speculative Decoding
 
 Code associated with the paper:
 
