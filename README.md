@@ -1,5 +1,9 @@
-# [ACL 2024] Self-Speculative Decoding
-
+<div align="center">
+<h1>
+    <img src="assets/ssd_logo.png" height="100px" align="top"/>  
+    <br>  
+    Draft &amp; Verify
+</h1>
 Code associated with the paper:
 
 **[ACL 2024] [Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding](https://arxiv.org/abs/2309.08168)**
