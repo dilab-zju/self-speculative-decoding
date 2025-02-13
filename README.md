@@ -1,8 +1,8 @@
 <div align="center">
 <h1>
-    <img src="assets/ssd_logo.png" height="100px" align="top"/>  
+    <img src="assets/ssd_logo.png" height="150px" align="top"/>  
     <br>  
-    Draft &amp; Verify
+    Self-Speculative Decoding
 </h1>
 Code associated with the paper:
 
