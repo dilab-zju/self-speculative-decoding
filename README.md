@@ -4,6 +4,7 @@
     <br>  
     Self-Speculative Decoding
 </h1>
+</div>
 Code associated with the paper:
 
 **[ACL 2024] [Draft &amp; Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding](https://arxiv.org/abs/2309.08168)**
